@@ -1,4 +1,4 @@
-# Chercher une image de base
+# Searcha  base image
 FROM ubuntu:latest
 
 # Update and upgrade to its latest release
